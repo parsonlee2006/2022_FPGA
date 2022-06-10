@@ -1,1 +1,1 @@
-# 2022_FPGA
+# 2022_FPGA Final Projects
