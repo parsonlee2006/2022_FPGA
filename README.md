@@ -3,21 +3,30 @@
 # Overview
 I would like to build a control system that operates vending machine based on FPGA board
 
-# Implementation Strategy
-This project divided into three parts: 1. Data flow 2. Control State machine 3. Display part
+# Background
+A vending machine is a sales method in which consumers use change to obtain products or services from the machine without direct contact between sellers and consumers.
 
-# Procedure
-First, users could choose 16 type products. Input the number of products and then press the button.
-Secondly, give the price of the products & wait for the machine operating.
-Finlay, get the product and the changes.
+It is known as "a 24-hour uninterrupted robot that brings wealth" and can complete transactions on its own without using too much manpower. This low-cost and high-profit business method is very popular among businessmen. For developed countries where labor costs are greater than machines, the existence of vending machines can quickly and accurately solve the problem of labor costs.
+
+For more than two years, as the COVID-19 epidemic hit the world, the non-contact, unmanned stores would be more popular. 
+I would like to launched models include 24-hour track of inventory,  Thermal Control Layer,and digital control system .
+In the furture it coudl add other functions as hot food lunch machines, dessert cake machines, and room temperature machines .
+
+# Implementation Strategy
+The project is divided into four parts: 1. Data flow process  2. 24-hour track of inventory 3.Temperture control 3. Display part.
+
+First, I will draw the block of the whole procedure, which contruct the each function of the machine.
+To develope the each part with verilog based on FPGA board, study about the state machine, PWM, 7-segment LED displayment, adn others digital circuits.
+
+To verify the the function, using the Vivado and implement on the FPGA board.
+Use the switch, button inputs and the LED outputs on board or others sensor to represent the function.
 
 # Tasks
-1. Develop the system process
-2. Using Verilog to implement the three part 
-3. Test and verify the function with Vivado and FPGA board 
+- Data flow process
+- 24-hour track of inventory 
+- Temperture control 
+- Display part.
 
 Estimated Timeline
-1. Task 1 (3-4 day)
-2. Task 2 (1-2 weeks)
-3. Task 3 (2-3 day)
+
 # Resources
