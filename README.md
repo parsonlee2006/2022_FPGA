@@ -17,7 +17,7 @@ Finlay, get the product and the changes.
 3. Test and verify the function with Vivado and FPGA board 
 
 # Estimated Timeline
-Task 1 (3-4 day)
-Task 2 (1-2 weeks)
-Task 3 (2-3 day)
+1. Task 1 (3-4 day)
+2. Task 2 (1-2 weeks)
+3. Task 3 (2-3 day)
 # Resources
