@@ -16,7 +16,7 @@ Finlay, get the product and the changes.
 2. Using Verilog to implement the three part 
 3. Test and verify the function with Vivado and FPGA board 
 
-# Estimated Timeline
+Estimated Timeline
 1. Task 1 (3-4 day)
 2. Task 2 (1-2 weeks)
 3. Task 3 (2-3 day)
