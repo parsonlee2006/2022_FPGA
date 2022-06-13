@@ -1,4 +1,4 @@
-# 22_FPGA Final Project Proposal: Vending Machine 
+# pl27265_FPGA Final Project Proposal: Smart Vending Machines
 
 # Overview
 I would like to build a control system that operates vending machine based on FPGA board
