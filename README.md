@@ -22,10 +22,12 @@ To verify the the function, using the Vivado and implement on the FPGA board.
 Use the switch, button inputs and the LED outputs on board or others sensor to represent the function.
 
 # Tasks
-- Data flow process
-- 24-hour track of inventory 
-- Temperture control 
-- Display part.
+1. set the number of products and the change coudl be accepted
+2. defined the layer of the different temperture
+3. construct the operating prcedure
+4. implement PWM, state machine, and behaviour model in verilog
+5. Test and verify the function correctly on vivado
+
 
 Estimated Timeline
 
