@@ -32,3 +32,5 @@ Use the switch, button inputs and the LED outputs on board or others sensor to r
 Estimated Timeline
 
 # Resources
+https://hdlbits.01xz.net/wiki/Problem_sets#Verification:_Writing_Testbenches
+
